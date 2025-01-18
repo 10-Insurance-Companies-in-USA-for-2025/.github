@@ -12,7 +12,7 @@ Allstate is another major player in the insurance market. It offers a wide range
 
 USAA caters primarily to military members and their families. The company is widely recognized for its exceptional customer service and competitive rates. Its focus on meeting the unique needs of military personnel has fostered a strong and dedicated customer base. In addition to insurance, USAA offers banking and investment services, making it a one-stop solution for its members.
 
-Liberty Mutual, a global insurer, provides a broad spectrum of insurance products, including auto, home, and commercial coverage. The company’s dedication to innovation and customer satisfaction ensures its continued success. Liberty Mutual’s diversified portfolio and strategic acquisitions have played a crucial role in its growth and market stability.
+Liberty Mutual, a global insurer, provides a broad spectrum of insurance products, including auto, home, and commercial coverage. 
 
 Farmers Insurance offers products ranging from auto and home insurance to small business coverage. Its strong agent network and focus on customer education have helped it maintain a strong market position. Farmers’ commitment to community involvement and tailored insurance options resonates well with customers.
 
